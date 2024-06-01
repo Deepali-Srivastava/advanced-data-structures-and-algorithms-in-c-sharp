@@ -1,6 +1,6 @@
 # Advanced Data Structures and Algorithms in C#
 
-This [“Data Structures and Algorithms in C#”](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
+This [Data Structures and Algorithms in C#](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
